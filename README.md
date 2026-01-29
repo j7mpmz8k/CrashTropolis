@@ -1,6 +1,6 @@
 # Crashtropolis
 
-A high-octane local multiplayer arcade game inspired by Tron's light cycles. Battle against a friend to see who can survive the longest without crashing into walls or light trails!
+A high-octane **Tron-like 2D arcade simulation** where two players battle for survival. Inspired by the classic light cycle mechanics, players must navigate a grid-based arena, cutting off their opponents while avoiding walls and their own trails.
 
 ![Crashtropolis](assets/images/red-car.png)
 
